@@ -2,7 +2,7 @@
 
 # vcf.py
 # Ryan Tobin, 2023
-# Version 0.1.0
+# Version 1.0.0
 
 # This script has been tested in Python 3.9 
 
